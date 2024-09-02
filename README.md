@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Aqi1992
+- 👀 I’m interested in Pentesting, Cyber Security and Bounty Hunting
+- 🌱 I’m currently learning GO Language
